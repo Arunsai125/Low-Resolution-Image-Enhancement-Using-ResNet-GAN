@@ -41,4 +41,44 @@ The solution is based on a **Generative Adversarial Network (GAN)** framework co
 
 ## 📁 Repository Structure
 
+resnet-gan-superresolution ┣ 📂 results/ ← Output image samples and comparisons ┣ 📂 models/ ← Trained model files  ┣ 📂 src/ ← Implementation code (PyTorch / TensorFlow) ┣ 📜 MajorFinalPaper.pdf ┣ 📜 README.md ┗ 📜 requirements.txt ← List of dependencies
+
+
+---
+
+## 🛠️ Technologies Used
+
+- Python, PyTorch (or TensorFlow)
+- VGG19 (pre-trained)
+- NumPy, OpenCV, Matplotlib
+- GAN + ResNet + PixelShuffle
+- Evaluation: MSE, PSNR, SSIM, MOS
+
+---
+
+## 📣 Citation
+
+If you use this work, please cite:
+
+**Arun Sai Narla**, Shalini Kapuganti, Hathiram Nenavath,  
+*Low Resolution Image Enhancement Using Res-Net GAN*,  
+SCRS International Conference Publication, 2023.  
+🔗 [Link to paper](https://www.publications.scrs.in/chapter/978-81-955020-5-9/108)
+
+---
+
+## 🧑‍💻 Contributors
+
+- Arun Sai Narla – arunsaiknr@gmail.com  
+- Shalini Kapuganti  
+- Hathiram Nenavath  
+
+---
+
+## 📌 License
+
+This repository is provided under the MIT License. Feel free to use, share, and contribute!
+
+
+
 
