@@ -41,7 +41,14 @@ The solution is based on a **Generative Adversarial Network (GAN)** framework co
 
 ## 📁 Repository Structure
 
-resnet-gan-superresolution ┣ 📂 results/ ← Output image samples and comparisons ┣ 📂 models/ ← Trained model files  ┣ 📂 src/ ← Implementation code (PyTorch / TensorFlow) ┣ 📜 MajorFinalPaper.pdf ┣ 📜 README.md ┗ 📜 requirements.txt ← List of dependencies
+📦 Low-Resolution-Image-Enhancement-Using-ResNet-GAN
+ ┣ 📂 src/               ← Implementation code
+ ┣ 📂 models/            ← Trained model files 
+ ┣ 📂 results/           ← Output image samples and comparisons
+ ┣ 📂 data/              ← Sample input data or links to datasets
+ ┣ 📜 README.md
+ 
+
 
 
 ---
